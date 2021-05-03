@@ -1,5 +1,5 @@
 # BigDataCup2021
-This is the repository for my competition entry. I used a Poisson Generalized Linear Model and K-Nearest Neighbors to show how actions after a takeaway in hockey can be modeled.
+This is the repository for my competition entry of the [Big Data Cup 2021](https://www.stathletes.com/big-data-cup/). I used a Poisson Generalized Linear Model and K-Nearest Neighbors to show how actions after a takeaway in hockey can be modeled.
 
 For more information, please read my paper: [Poisson GLM Takeaways](https://github.com/inm2/BigDataCup2021/blob/main/How%20Do%20Takeaways%20Lead%20To%20Goals.pdf)
 
